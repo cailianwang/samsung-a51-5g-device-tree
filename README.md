@@ -1,0 +1,1 @@
+# samsung-a51-5g-device-tree
